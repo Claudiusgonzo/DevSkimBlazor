@@ -85,10 +85,6 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
-      "url": "sample-data\/weather.json"
-    },
-    {
       "hash": "sha256-O64ckIHPyi7yIVso8u\/ZGhkdQhw044ijAk21oPvQsHY=",
       "url": "_framework\/_bin\/Microsoft.DevSkim.Blazor.dll"
     },
@@ -481,5 +477,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "12udp78C"
+  "version": "tbETXsss"
 };
