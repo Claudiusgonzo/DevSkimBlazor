@@ -61,7 +61,11 @@
       "url": "css\/prism.css"
     },
     {
-      "hash": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU\/+39dni9E0=",
+      "hash": "sha256-rAlYwSyg7nxHLrPYJDf5D3kxx64G2chGMbPyRF9RiwA=",
+      "url": "devskim.ico"
+    },
+    {
+      "hash": "sha256-rAlYwSyg7nxHLrPYJDf5D3kxx64G2chGMbPyRF9RiwA=",
       "url": "favicon.ico"
     },
     {
@@ -69,7 +73,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-d\/BndDhMzWmARhWT7qOz2QOVnFFBTuVu\/Jb4HT4myrs=",
+      "hash": "sha256-2dA7VwPEbxd3\/Qr37t80KIZcpfm0eoTiCm+oSIJAgGw=",
       "url": "index.html"
     },
     {
@@ -477,5 +481,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "0CLKxa1i"
+  "version": "bXudrZp+"
 };
