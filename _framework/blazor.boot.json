@@ -6,8 +6,8 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Microsoft.DevSkim.Blazor.dll": "sha256-KvCemk65WVR++w6lnkJjoWXbgJtuOXcAJ85czNRFWXI=",
-      "Microsoft.DevSkim.dll": "sha256-v9hqjeDfOD2PDb\/OCovfGtSiAmQGcvFuNrYYv7+8CT0=",
+      "Microsoft.DevSkim.Blazor.dll": "sha256-L14ZP8qm4yrr11xnBQaRucIrW+qb1\/Ws6aBOhH4Ys58=",
+      "Microsoft.DevSkim.dll": "sha256-qiFU224hF6Dspma3E3dM00SkBSqo4XRuvz0uR\/pUWFo=",
       "Newtonsoft.Json.dll": "sha256-mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -43,7 +43,7 @@
       "System.Numerics.Vectors.dll": "sha256-qAKfFnquY+7UC\/MzLi04rjqEhLzTryCoLg\/S6MxI19I=",
       "Sarif.dll": "sha256-FG6nplF97w9zJVvhJ\/1rZ94zizmZikQYKkqU83S8R6o=",
       "System.Collections.Immutable.dll": "sha256-LwWixInC0wpsyjRtTOGEMj1w609a+mvtNNWAAnRETlc=",
-      "devskim.dll": "sha256-ZZG2J0x6eJNs2qd0n1LTf\/r4bDPHIBhsdhVS1PG2UiM=",
+      "devskim.dll": "sha256-TwIZMYmVemDAhPuve1gOiF1SxNizTzMpiwcfBpTmIfw=",
       "RecursiveExtractor.dll": "sha256-NuNZEoM8oRyCNKbIh0usD6A9pqHx+wEoEYAyckX5QY8=",
       "DiscUtils.Streams.dll": "sha256-kZPgI2yYlPuvK0CXzPVfDXu7kpYIOXkTJ4wkGJvCT5Y=",
       "DiscUtils.Xfs.dll": "sha256-Ov35b6lw0Uu4d7AUiso54Pn52atsZfpdzbRuWnuvpEc=",
@@ -96,10 +96,10 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Microsoft.DevSkim.Blazor.pdb": "sha256-5DpF63nQNViVviWnJSeZGPPxLbkGmS54HXIZnLockGU=",
-      "Microsoft.DevSkim.pdb": "sha256-Xvy\/COLebvFpYan5Y196ZP2aNunHdo\/Z4lgWqo56tXU=",
+      "Microsoft.DevSkim.Blazor.pdb": "sha256-utiGrHDEzKKlgPYZcwbFMoLrgnH5Uw2ubQVBXAhvFeA=",
+      "Microsoft.DevSkim.pdb": "sha256-D6aFdBjN4se2MBoiCi1\/tEE\/mlpde0wFoxFJlQBxwhs=",
       "MoreLinq.pdb": "sha256-XdXdgRpFq4GyCWpXzlfuR9TwOp8lrChW1Bo5A7Ftnww=",
-      "devskim.pdb": "sha256-tS\/\/Txy6j39tDHTrRd7neEcX\/02ROAKdP108Oxxf3Ts=",
+      "devskim.pdb": "sha256-6f9qCAUIwRW+TFECFHugwfnF56eegGgVIFAd+LqDYZ0=",
       "ICSharpCode.SharpZipLib.pdb": "sha256-he925pOkmKA76ZzQ65k\/CJuKDFB8oZb0qiZ8x8c7sLA="
     },
     "runtime": {
