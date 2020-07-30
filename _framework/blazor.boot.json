@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Microsoft.DevSkim.Blazor.dll": "sha256-O64ckIHPyi7yIVso8u\/ZGhkdQhw044ijAk21oPvQsHY=",
+      "Microsoft.DevSkim.Blazor.dll": "sha256-AWgKdG60Bp8PpF9L1YF5\/+bDmFMAws3svu\/qKWK0H5o=",
       "Microsoft.DevSkim.dll": "sha256-v9hqjeDfOD2PDb\/OCovfGtSiAmQGcvFuNrYYv7+8CT0=",
       "Newtonsoft.Json.dll": "sha256-mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
@@ -96,7 +96,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Microsoft.DevSkim.Blazor.pdb": "sha256-kL\/4RcUAZaVE2igMIDV\/xKYuZ0P8ukB6LIXNpaN+9jA=",
+      "Microsoft.DevSkim.Blazor.pdb": "sha256-YYuvWuB05UeyWpI7Sd5alE5p727+nw2Nq0KnGBtkEpU=",
       "Microsoft.DevSkim.pdb": "sha256-Xvy\/COLebvFpYan5Y196ZP2aNunHdo\/Z4lgWqo56tXU=",
       "MoreLinq.pdb": "sha256-XdXdgRpFq4GyCWpXzlfuR9TwOp8lrChW1Bo5A7Ftnww=",
       "devskim.pdb": "sha256-tS\/\/Txy6j39tDHTrRd7neEcX\/02ROAKdP108Oxxf3Ts=",
